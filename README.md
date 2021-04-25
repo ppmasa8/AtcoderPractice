@@ -6,7 +6,7 @@ https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 ## LIST
 
-# アルゴリズム
+### アルゴリズム
 - 全探索（bit 全探索、順列全探索を含む）
 - 二分探索
 - 深さ優先探索（DFS）
@@ -20,7 +20,7 @@ https://qiita.com/e869120/items/eb50fdaece12be418faa
 - 逆元を計算するアルゴリズム
 - 累積和
 
-# データ構造
+### データ構造
 - グラフ（グラフ理論）
 - 木
 - Union-Find
