@@ -3,7 +3,7 @@ def binary_search(a,key)
   lo  = 0
   hi  = a.size - 1
 
-  while lo < hi
+  while lo <= hi
     mid = lo + (lo + hi) / 2
     if a[mid] == key
       return a[mid]
