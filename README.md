@@ -1,8 +1,9 @@
 # AtcoderPractice
-atcoderで詰まった問題を集めたリポジトリです
+atcoderの問題を集めたリポジトリです
 
-競プロ分野別記事（参考にして練習しています）
-https://qiita.com/e869120/items/eb50fdaece12be418faa
+## 扱っているもの
+- 参加できなかったコンテスト
+- 分野別の演習
 
 ## LIST
 
@@ -25,3 +26,5 @@ https://qiita.com/e869120/items/eb50fdaece12be418faa
 - 木
 - Union-Find
 
+競プロ分野別記事（参考にして練習しています）
+https://qiita.com/e869120/items/eb50fdaece12be418faa
