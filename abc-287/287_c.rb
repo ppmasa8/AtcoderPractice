@@ -20,6 +20,6 @@ until queue.empty?
     queue << to
   end
 end
-# remove 0
+# remove 0 index
 reach.shift
 puts reach.all? ? "Yes" : "No"
